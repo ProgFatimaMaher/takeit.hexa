@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hexa.takeItApp",
+    "sha256_cert_fingerprints":
+    ["69:75:EB:EC:16:33:87:DE:93:8E:BA:E5:54:7F:AE:B5:D5:C1:0C:88:9B:09:BD:C1:12:37:A4:20:E1:DB:80:31"]
+  }
+}]
